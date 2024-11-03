@@ -32,3 +32,6 @@ print("Generating Proflie Card...")
 time.sleep(1)
 print("Ok, Your Proflie Card is ready!")
 time.sleep(0.5)
+
+print(f"Name: {your_name}\nAge: {your_age}\nCity you live in: {city}\nHobby you like: {hobby}\nFavorite Food: {food}")
+time.sleep(2.5)
