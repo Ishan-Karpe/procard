@@ -1,4 +1,5 @@
 # js one of my old projects from repl.it
+# the reason i am doing this is because replit limited only 3 repls for free users so I am migrating most of my repls to github
 
 import time
 
