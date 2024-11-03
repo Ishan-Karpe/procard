@@ -35,3 +35,18 @@ time.sleep(0.5)
 
 print(f"Name: {your_name}\nAge: {your_age}\nCity you live in: {city}\nHobby you like: {hobby}\nFavorite Food: {food}")
 time.sleep(2.5)
+
+rate = input("How would you like to rate this Proflie Card maker so far? 1, 2, 3, 4, or 5: ")
+if rate == "1":
+        print("Thanks for the", rate, "star, I will improve this repl,", your_name,"!!!")
+elif rate == "2":
+        print("Thanks for the", rate, "stars, I will improve this repl,",
+              your_name,"!!!")
+elif rate == "3":
+        print("Thanks for the", rate, "stars, I will improve this repl,",
+              your_name,"!!!")
+elif rate == "4":
+        print("Thanks for the", rate, "stars, I will improve this repl,",
+              your_name,"!!!")
+else:
+        print("Thanks for the", rate, "stars", your_name,"!!!")
